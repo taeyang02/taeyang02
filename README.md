@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100077265918944](https://www.facebook.com/profile.php?id=100077265918944)
 
-- 💬 Ask me about **SpringBoot, Vue3, ...**
+- 💬 Ask me about **SpringBoot, VueJs, ...**
 
 - 📫 How to reach me **duongdongthai.smk@gmail.com**
 
