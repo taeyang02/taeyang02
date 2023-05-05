@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dong Thai Duong</h1>
+<h1 align="center">Hi there 👋, I'm Dong Thai Duong</h1>
 <h3 align="center">A passionate backend and frontend developer from VietNam</h3>
 
-- 🔭 I’m currently working on **My Github**
+- 🔭 I’m currently working on [My Github](https://github.com/taeyang02)
 
-- 🌱 I’m currently learning **SpringBoot, Vue3, ...**
+- 🌱 I’m currently learning **Java SpringBoot, Vue3, ...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/taeyang02](https://github.com/taeyang02)
+- 👨‍💻 All of my projects are available at [Taeyang02](https://github.com/taeyang02)
 
-- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100077265918944](https://www.facebook.com/profile.php?id=100077265918944)
+- 📝 I regularly write articles on [My Facebook](https://www.facebook.com/profile.php?id=100077265918944)
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Java SpringBoot, Vue3 , Django , ...**
 
 - 📫 How to reach me **duongdongthai.smk@gmail.com**
 
-- 📄 Know about my experiences [https://www.facebook.com/profile.php?id=100077265918944](https://www.facebook.com/profile.php?id=100077265918944)
+- 📄 Know about my experiences [My Facebook](https://www.facebook.com/profile.php?id=100077265918944)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
