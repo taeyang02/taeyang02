@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [My Facebook](https://www.facebook.com/profile.php?id=100077265918944)
 
+- 🎞️ In addition, I share programming knowledge on [My Channel](https://www.youtube.com/@tduongw)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thai-duong-dong-30679224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thai-duong-dong-30679224b/" height="30" width="40" /></a>
