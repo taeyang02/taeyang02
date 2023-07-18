@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Dong Thai Duong</h1>
-<h3 align="center">A passionate backend and frontend developer from VietNam</h3>
+<h3 align="center">A passionate web developer from VietNam</h3>
 
 - 🔭 I’m currently working on [My Github](https://github.com/taeyang02)
 
