@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Taeyang02](https://github.com/taeyang02)
 
-- 📝 I regularly write articles on [My Facebook](https://www.facebook.com/profile.php?id=100077265918944)
+- 📝 I regularly write articles on [My Linkedin](https://www.linkedin.com/in/thaiduongdong/)
 
 - 💬 Ask me about **Java SpringBoot, Vue3 , Django , ...**
 
